@@ -1,0 +1,9 @@
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\bin\Debug\DesencriptarSha1.exe.config
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\bin\Debug\DesencriptarSha1.exe
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\bin\Debug\DesencriptarSha1.pdb
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.csprojResolveAssemblyReference.cache
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.Form1.resources
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.Properties.Resources.resources
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.csproj.GenerateResource.Cache
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.exe
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\DesencriptarSha1\DesencriptarSha1\obj\Debug\DesencriptarSha1.pdb

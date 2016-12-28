@@ -1,0 +1,2 @@
+C:\Users\james.ortiza.IPSUDEA\documents\visual studio 2015\Projects\Hello\Hello\Hello.WinPhone\Hello.WinPhone.csproj;neutral
+C:\Users\james.ortiza.IPSUDEA\documents\visual studio 2015\Projects\Hello\Hello\Hello\Hello.csproj;neutral
