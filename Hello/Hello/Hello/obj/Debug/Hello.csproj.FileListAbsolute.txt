@@ -5,8 +5,5 @@ c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\
 c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Xaml.dll
 c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Core.xml
 c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\bin\Debug\Xamarin.Forms.Xaml.xml
-c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
 c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\obj\Debug\Hello.dll
 c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\Hello\Hello\Hello\obj\Debug\Hello.pdb
-C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\Hello\Hello\Hello\obj\Debug\Hello.dll.mdb
-C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\Hello\Hello\Hello\bin\Debug\Hello.dll.mdb

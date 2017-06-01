@@ -1,0 +1,7 @@
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\XamarinCrearTablaAzure.UWP.csprojResolveAssemblyReference.cache
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\App.g.i.cs
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\App.g.cs
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\App.xaml
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\MainPage.xaml
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\App.xbf
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.UWP\obj\x86\Debug\MainPage.xbf

@@ -1,0 +1,2 @@
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\Hello\Hello\Hello.Windows\Hello.Windows.csproj;neutral
+C:\Users\james.ortiza.IPSUDEA\Documents\Visual Studio 2015\Projects\Hello\Hello\Hello\Hello.csproj;neutral

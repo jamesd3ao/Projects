@@ -1,0 +1,1 @@
+c:\users\james.ortiza.ipsudea\documents\visual studio 2015\Projects\XamarinCrearTablaAzure\XamarinCrearTablaAzure\XamarinCrearTablaAzure.Droid\obj\Debug\XamarinCrearTablaAzure.Droid.csprojResolveAssemblyReference.cache
